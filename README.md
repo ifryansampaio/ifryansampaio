@@ -2,10 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan7889/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rssdo.dev@gmail.com)
 
-
-
-I am currently pursuing a technologist degree in Analysis and Systems Development. My main focus is on mobile development, where I am deeply immersed in studying Kotlin and Java. Here in my GitHub, you'll find all my deeds as a developer, including the oldest ones. Anyhow, what are we if not the product of the road we tread?
-
+I am currently pursuing a technologist degree in Analysis and Systems Development. My main focus is on mobile development, where I am deeply immersed in studying Kotlin and Java.
 
 ## Technologies & Tools
 
