@@ -1,5 +1,7 @@
 # Hi, my name is Ryan.
 
+<img align="right" src="https://media1.tenor.com/m/LkQzw7k5DV4AAAAd/anime-hacking.gif" width="270" />
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan7889/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rssdo.dev@gmail.com)
 
 I am currently pursuing a technologist degree in Analysis and Systems Development. My main focus is on mobile development, where I am deeply immersed in studying Kotlin and Java.
