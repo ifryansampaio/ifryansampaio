@@ -6,7 +6,7 @@
 
 I am currently pursuing a technologist degree in Analysis and Systems Development. My main focus is on mobile development, where I am deeply immersed in studying Kotlin and Java.
 
-## Technologies & Tools
+## Technologies & Tools 
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 [![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
