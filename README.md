@@ -16,4 +16,4 @@ I am currently pursuing a technologist degree in Analysis and Systems Developmen
 ## 📈 GitHub Stats
 
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifryansampaio&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifryansampaio&layout=compact&theme=github_dark&exclude_repo=)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifryansampaio&layout=compact&theme=github_dark&exclude_repo=) 
